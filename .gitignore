@@ -1,1 +1,13 @@
+# Secrets
 .env
+.env.*
+*.key
+*.pem
+
+# Build artifacts
+suluv/packages/suluv-core/dist
+dist/
+*.egg-info/
+build/
+__pycache__/
+*.pyc

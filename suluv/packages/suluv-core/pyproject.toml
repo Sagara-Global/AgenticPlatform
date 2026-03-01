@@ -1,7 +1,7 @@
 [project]
 name = "suluvai"
-version = "3.0.0"
-description = "SuluvAI 3.0 — Agentic Business Process Framework with Graph Engine, Agent Orchestration & Process Engine"
+version = "0.2.0"
+description = "SuluvAI — Agentic Business Process Framework with Graph Engine, Agent Orchestration & Process Engine"
 requires-python = ">=3.11"
 dependencies = []
 readme = "README.md"
