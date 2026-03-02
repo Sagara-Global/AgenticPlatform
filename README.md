@@ -155,6 +155,14 @@ All ports ship with **in-memory adapters** — no external infrastructure needed
 
 ## License
 
-MIT
+Licensed under the [Apache License, Version 2.0](LICENSE).
+
+Copyright 2026 SagaraGlobal.
+
+If you fork or build on this project, you must include the following attribution in your source code, documentation, or user-facing materials:
+
+> "Built on SuluvAI Framework — https://github.com/sagaraglobal/suluvai"
+
+This is required by the [NOTICE](NOTICE) file under Section 4(d) of the Apache 2.0 License.
 
 Developed by [SagaraGlobal](https://sagaraglobal.com)
