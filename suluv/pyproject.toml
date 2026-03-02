@@ -3,6 +3,10 @@ name = "suluv"
 version = "0.1.0"
 description = "Suluv — Agentic Business Process Framework"
 requires-python = ">=3.11"
+license = {file = "../LICENSE"}
+authors = [
+    {name = "SagaraGlobal", email = "info@sagaraglobal.com"},
+]
 
 [tool.uv.workspace]
 members = ["packages/*"]

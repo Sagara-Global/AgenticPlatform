@@ -5,7 +5,8 @@ description = "SuluvAI — Agentic Business Process Framework with Graph Engine,
 requires-python = ">=3.11"
 dependencies = []
 readme = "README.md"
-license = {text = "MIT"}
+license = {file = "../../LICENSE"}
+license-expression = "Apache-2.0"
 authors = [
     {name = "SagaraGlobal", email = "info@sagaraglobal.com"},
 ]
@@ -13,7 +14,7 @@ keywords = ["agents", "orchestration", "bpm", "graph-engine", "llm", "agentic", 
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
+    "License :: OSI Approved :: Apache Software License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.11",
     "Programming Language :: Python :: 3.12",
